@@ -2,6 +2,9 @@
 This project implements a water potability prediction system using a structured MLOps pipeline, integrating MLflow, DagsHub, and DVC for experiment tracking, model versioning, and reproducibility. Multiple models, including Random Forest, Logistic Regression, and XGBoost, were evaluated, with a focus on optimizing performance through hyperparameter tuning and testing different imputation techniques for missing data. The best model is registered in the MLflow Model Registry and deployed via Streamlit cloud for real-time predictions. A Streamlit based web application provides an interactive interface for users, automatically fetching the latest registered model. 
 
 
+Link: [Click here to open app]([https://example.com](https://aquapredict-saket.streamlit.app/))
+
+
 ## 🚀 MLOps Project Workflow
 
 This project follows a structured workflow to streamline the MLOps process using modern tools like MLflow, DVC, and Streamlit.
