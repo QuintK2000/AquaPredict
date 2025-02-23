@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+imblearn
+streamlit-option-menu
+sdv
+sdmetrics
+plotly
